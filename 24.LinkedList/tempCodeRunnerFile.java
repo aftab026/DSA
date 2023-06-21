@@ -1,0 +1,1 @@
+ut.println(l1.checkPalindrome()

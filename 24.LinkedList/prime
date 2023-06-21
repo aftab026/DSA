@@ -1,0 +1,10 @@
+isPrime = true
+for i in range(2, n ** 0.5 + 1):
+    if n % i == 0:
+        isPrime = Falsebreak
+
+
+if isPrime:
+    prin t("prime")
+else:
+    print("not prime")

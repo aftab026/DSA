@@ -1,0 +1,2 @@
+deque.removeFirst();
+        // Syst
